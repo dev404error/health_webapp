@@ -1,0 +1,6 @@
+Result Type,result_type,firstname,lastname,age,gender,covid_result
+,,Aayush,Shardul,22,male,COVID POSITIVE
+,,Aayush,dd,2,male, NEGATIVE 
+,,Aayush,Shardul,22.0,male, Heartdisease_NEGATIVE 
+,,Devashish,Daharia,24,male,COVID POSITIVE
+,,Aayush,Shardul,22,male, Diabetes NEGATIVE 
